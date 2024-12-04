@@ -4,5 +4,5 @@ cloneから更新
 originalで編集
 
 ブランチで編集
-
+BBBBBBB
 Cloneでプルする前に、確認
