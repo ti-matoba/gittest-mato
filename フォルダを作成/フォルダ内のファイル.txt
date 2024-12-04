@@ -2,3 +2,5 @@
 cloneから更新
 
 originalで編集
+
+ブランチで編集
