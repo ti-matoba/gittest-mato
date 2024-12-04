@@ -2,7 +2,7 @@
 cloneから更新
 AAAAAAA
 originalで編集
-
+XXXXXXX
 ブランチで編集
 BBBBBBB
 ZZZZZZZ
