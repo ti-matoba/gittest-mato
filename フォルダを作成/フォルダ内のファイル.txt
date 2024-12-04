@@ -2,8 +2,12 @@
 cloneから更新
 AAAAAAA
 originalで編集
-XXXXXXX
+オリジナルリポジトリが編集したことなど知らずに
+文章を書いています
+RXXXXXXX
+本当にこれで競合が起きてしまうのか
 ブランチで編集
 BBBBBBB
+ちょっと疑問ですが
 ZZZZZZZ
 Cloneでプルする前に、確認
