@@ -2,8 +2,13 @@
 cloneから更新
 AAAAAAA
 originalで編集
+通常のローカルリポジトリで
 XXXXXXX
+文章を追加しています
 ブランチで編集
+一行おきに入力したり
+簡単にマージできないように
 BBBBBBB
+してみます。
 ZZZZZZZ
 Cloneでプルする前に、確認
