@@ -2,5 +2,5 @@ UTF8で保存したテキスト
 cloneで更新
 TTTTTTTTTTTT
 最初に作ったローカルリポジトリで記入
-
+KKKKKKKKKKKKKK
 Cloneで編集
