@@ -1,6 +1,6 @@
 フォルダ内のファイルを登録
 cloneから更新
-
+AAAAAAA
 originalで編集
 
 ブランチで編集
